@@ -40,3 +40,9 @@ git merge feature1//from the branch where the code needs to be merged
 git commit//after merge conflict then shift: and wq to escape the screen
 
 git push https://github.com/saikats5/git-intro.git master
+
+git remote add origin https://github.com/saikats5/git-intro.git
+
+git clone https://github.com/saikats5/git-intro.git
+
+git remote -v//show all alias when cloned from github repo
