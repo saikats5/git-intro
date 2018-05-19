@@ -46,3 +46,7 @@ git remote add origin https://github.com/saikats5/git-intro.git
 git clone https://github.com/saikats5/git-intro.git
 
 git remote -v//show all alias when cloned from github repo
+
+git pull origin master// fetch all code from master branch in remote to master branch in local
+
+forking and contributing can be done from main account to own account by selecting fork
